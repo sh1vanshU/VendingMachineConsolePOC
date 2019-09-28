@@ -1,0 +1,7 @@
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\bin\Debug\VendingMachinePOC.exe.config
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\bin\Debug\VendingMachinePOC.exe
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\bin\Debug\VendingMachinePOC.pdb
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\obj\Debug\VendingMachinePOC.csprojAssemblyReference.cache
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\obj\Debug\VendingMachinePOC.csproj.CoreCompileInputs.cache
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\obj\Debug\VendingMachinePOC.exe
+C:\Users\Shivanshu.gua\source\repos\VendingMachinePOC\VendingMachinePOC\obj\Debug\VendingMachinePOC.pdb
